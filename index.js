@@ -1,126 +1,158 @@
 
-    //     // 1-Masala
-    //     console.log("1-masala")
-    // var a = 2
+        // 1-Masala
+        console.log("1-masala")
+    var a = 2
 
-    // console.log(P=4*a)
-    // console.log("======")
-
-
-    //         // 2-Masala
-    //         console.log("2-masala")
-    // var a = 3
-
-    // console.log(s=a*a)
-    // console.log("=======")
+    console.log(P=4*a)
+    console.log("======")
 
 
+            // 2-Masala
+            console.log("2-masala")
+    var a = 3
 
-    //     // 3-Masala
-    //     console.log("3-masala")
-    // var a = 2
-    // var b = 3
-    // var s = a * b
-    // a = 4
-    // b = 6
-    // p = 2 *(a+b)
-
-    // console.log(s)
-    // console.log(p)
-    // console.log("========")
+    console.log(s=a*a)
+    console.log("=======")
 
 
 
+        // 3-Masala
+        console.log("3-masala")
+    var a = 2
+    var b = 3
+    var s = a * b
+    a = 4
+    b = 6
+    p = 2 *(a+b)
 
-    //     // 4-Masala
-    //     console.log("4-masala")
-    // var d = 3
-    // const pi=3.14
-
-    // console.log(L=pi*d)
-    // console.log("========")
+    console.log(s)
+    console.log(p)
+    console.log("========")
 
 
 
-    //     // 5-Masala
-    //     console.log("5-masala")
-    // var a =2
-    // var v = a**3
-    // var s= 6*a**2
 
-    // console.log(v)
-    // console.log(s)
-    // console.log("========")
+        // 4-Masala
+        console.log("4-masala")
+    var d = 3
+    const pi=3.14
+
+    console.log(L=pi*d)
+    console.log("========")
+
+
+
+        // 5-Masala
+        console.log("5-masala")
+    var a =2
+    var v = a**3
+    var s= 6*a**2
+
+    console.log(v)
+    console.log(s)
+    console.log("========")
 
 
         
-    //   // 6-Masala
-    //   console.log("6-masala")
-    // var a = 4
-    // var b = 6
-    // var c = 2
-    // var v = a+b+
+      // 6-Masala
+      console.log("6-masala")
+    var a = 4
+    var b = 6
+    var c = 2
+    var v = a+b+
 
-    //     s + v*2
-    // console.log(v)
-    // console.log(s)
-    // console.log("==========")
-
-
-    //   // 7-Masala
-    //   console.log("7-masala")
-    // var R = 4
-
-    // console.log(L=2*pi*R)
-    // console.log(S=pi*R*R)
-    // console.log("==========")
+        s + v*2
+    console.log(v)
+    console.log(s)
+    console.log("==========")
 
 
+      // 7-Masala
+      console.log("7-masala")
+    var R = 4
 
-    //   // 8-Masala
-    //   console.log("8-masala")      
-    // var a = 4
-    // var b = 30
-
-    // console.log((a*b)/2)
-
-
-    //     // 9-Masala
-    //   console.log("9-Masala")
-    // var a = 4
-    // var b = 5
-
-    // console.log((a*b)**(1/2))
-    // console.log("==========")
+    console.log(L=2*pi*R)
+    console.log(S=pi*R*R)
+    console.log("==========")
 
 
 
-    //     // 10-Masala
+      // 8-Masala
+      console.log("8-masala")      
+    var a = 4
+    var b = 30
 
-    //     console.log("10-Masala")
-    // var a = 6
-    // var b = 4
-
-    // console.log(a+b)
-    // console.log(a*b)
-    // console.log(a*a)
-    // console.log(b*b)
-    // console.log("==========")
+    console.log((a*b)/2)
+    console.log("========")
 
 
 
+        // 9-Masala
+      console.log("9-Masala")
+    var a = 4
+    var b = 5
+
+    console.log((a*b)**(1/2))
+    console.log("==========")
+
+
+
+        // 10-Masala
+
+        console.log("10-Masala")
+    var a = 6
+    var b = 4
+
+    console.log(a+b)
+    console.log(a*b)
+    console.log(a*a)
+    console.log(b*b)
+    console.log("==========")
 
 
 
 
-    //     // 11-Masala
-    //     console.log("11-masala")
-    // var a = 8
-    // var b = 4
 
-    // console.log(a+b)
-    // console.log(a*b)
-    // console.log(a>0)
-    // console.log(b<0) 
-    // console.log("==========")
+
+
+        // 11-Masala
+        console.log("11-masala")
+    var a = 8
+    var b = 4
+
+    console.log(a+b)
+    console.log(a*b)
+    console.log(a>0)
+    console.log(b<0) 
+    console.log("==========")
+
+
+
+
+    a = 95;
+    
+    a >= 95 && console.log("A+")
+    a < 95 && a >= 90 && console.log("A")
+
+    a < 90 && a >= 85 && console.log("B+")
+    a < 85 && a >= 80 && console.log("B")
+
+    a < 80 && a >= 75 && console.log("C+")
+    a < 75 && a >= 70 && console.log("C")
+
+    a < 70 && a >= 65 && console.log("D+")
+    a < 65 && a >= 60 && console.log("D")
+
+    a < 60 && a >= 55 && console.log("E+")
+    a < 55 && a >= 50 && console.log("E")
+
+      
+
+
+
+
+
+
+
+
 
